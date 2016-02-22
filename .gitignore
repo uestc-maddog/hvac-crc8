@@ -50,3 +50,5 @@ Temporary Items
 *.depend
 *.o
 *.cbp
+
+*.layout
